@@ -28,13 +28,6 @@ It creates a local database, runs SQL queries, visualizes revenue by product, an
 
 ---
 
-## 🖼️ Visualization Example
-
-**Revenue by Product**
-
-![Sales Chart](sales_chart.png)
-
----
 
 ## 💾 Generated Files
 
